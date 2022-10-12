@@ -1,12 +1,24 @@
-h1,
+body {
+  margin-top: 15px;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
 p {
   text-align: center;
+  margin: auto 25px;
 }
-.img-fluid {
+
+img {
   border-radius: 15px;
   display: block;
   text-align: center;
+  margin: auto;
 }
+
 a {
-    padding: 15px;
+  padding: 15px;
 }
